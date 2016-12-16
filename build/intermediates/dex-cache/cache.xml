@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/alemq/Documents/Projects/pickMe/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/alemq/Documents/Projects/pickMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_7cdf29e767652f2878416bc076e0168bed188125/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alemq/Documents/Projects/pickMe/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/alemq/Documents/Projects/pickMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_1503b45d74235c1463f858f7cbabfaf42b8fda9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alemq/AndroidStudioProjects/PickMe/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/alemq/AndroidStudioProjects/PickMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c301290dc5750b18ca6ee572bf07837827bd487c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alemq/AndroidStudioProjects/PickMe/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/alemq/AndroidStudioProjects/PickMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3a8507595ac1432062b5d215481bd3602055b090/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alemq/AndroidStudioProjects/PickMe/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/alemq/AndroidStudioProjects/PickMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_7c996d6f64a73c8b1402eb347a7699a370988149/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alemq/AndroidStudioProjects/PickMe/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/alemq/AndroidStudioProjects/PickMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_8fbb804cfff092a064b4b7e61615a8770e0d1128/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alemq/Documents/Projects/pickMe/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1057729a6317daac8b8dd6f45a877a1c587c9241">
+        <dex dex="/Users/alemq/Documents/Projects/pickMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0241225f2fb6a870840301ed983f3065a7aaef95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alemq/AndroidStudioProjects/PickMe/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/alemq/AndroidStudioProjects/PickMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_549967c38ee472257510d68a5b4282cefdaf9f62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alemq/Documents/Projects/pickMe/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/alemq/Documents/Projects/pickMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_872a34a79bbf6480f983003d2e6c75d6bd266b5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alemq/Documents/Projects/pickMe/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/alemq/Documents/Projects/pickMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_433073fa1bc344665840544bb5982f43279db6e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alemq/AndroidStudioProjects/PickMe/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/alemq/AndroidStudioProjects/PickMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_0651f122c7919809ca9db2fa68f77fd680a7e5dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alemq/Documents/Projects/pickMe/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/alemq/Documents/Projects/pickMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_28aa43a1ab8a4e27f0ee3c5522997e1e5fe08d8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alemq/Documents/Projects/pickMe/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/alemq/Documents/Projects/pickMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_61db1a350bde60353752f0e8c79a1066c0c9831b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alemq/AndroidStudioProjects/PickMe/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/alemq/AndroidStudioProjects/PickMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_d3c32b9b6d1859e624f40aa22928d6b1f45ea200/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alemq/Documents/Projects/pickMe/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/alemq/Documents/Projects/pickMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_2c2095a85d8bee7e316690e41ba30376ce9a488f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alemq/Documents/Projects/pickMe/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/alemq/Documents/Projects/pickMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_44468ce369c4f21fc7f69e2dbca3d21299a874cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alemq/Documents/Projects/pickMe/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/alemq/Documents/Projects/pickMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_75f48591477ef1e59fb5017247ee359626154245/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alemq/AndroidStudioProjects/PickMe/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/alemq/AndroidStudioProjects/PickMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_b15b91e74b894b020b1ba2c0a297aca4602d98db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alemq/Documents/Projects/pickMe/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/alemq/Documents/Projects/pickMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_aa6be4351f0d62ed1bbe1c50eca012d5f8cbedba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alemq/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/alemq/AndroidStudioProjects/PickMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_3fd3c63e2bad2cf1d2002e43c8ef6a64096fe30c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alemq/AndroidStudioProjects/PickMe/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="28eb5292a64dd74cb2d99847bf9b133656b21af2">
+        <dex dex="/Users/alemq/AndroidStudioProjects/PickMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d26aae83753ea2d2fcce0623ba806cac6edcde79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alemq/AndroidStudioProjects/PickMe/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/alemq/AndroidStudioProjects/PickMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_9059088f8086087fd7e7f1f06b43806fac903b36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alemq/AndroidStudioProjects/PickMe/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/alemq/AndroidStudioProjects/PickMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_44d3b0cfacb586b466e3819d36bbd946d9588ae6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alemq/AndroidStudioProjects/PickMe/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/alemq/AndroidStudioProjects/PickMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_0c858980b402f810ee6778d14d50970fabd4ce63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alemq/AndroidStudioProjects/PickMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/alemq/AndroidStudioProjects/PickMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_bdb614be1fe3bd0e70c73169e0429540f4555904/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alemq/Documents/Projects/pickMe/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/alemq/Documents/Projects/pickMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f16ad4ddf15d217ae378d374ab8130c63bb560b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alemq/AndroidStudioProjects/PickMe/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/alemq/AndroidStudioProjects/PickMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_7e94ba99c1ab4973ee946d0c56594d62161361c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alemq/Documents/Projects/pickMe/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/alemq/Documents/Projects/pickMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_6a19fadf7ed40aa3ef08705a3e2407d3757eb7a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alemq/AndroidStudioProjects/PickMe/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="510dab374593e4df91c5f2525034ee894d809fef">
+        <dex dex="/Users/alemq/AndroidStudioProjects/PickMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3650faf02c0dc7ba4765d4da35cc149af78a12b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alemq/Documents/Projects/pickMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/alemq/Documents/Projects/pickMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_820576a4b8a0043a3716fdf0ab74df29493fafe9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alemq/Documents/Projects/pickMe/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/alemq/Documents/Projects/pickMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ce015d15df11f5396741ee97a8ff184e57be06f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alemq/AndroidStudioProjects/PickMe/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/alemq/AndroidStudioProjects/PickMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_cb0b74a5df09ff3042e1e4efea7cf068018558a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alemq/Documents/Projects/pickMe/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="adde07f327356d2efd67acb8c078fc9f679c00b7">
+        <dex dex="/Users/alemq/Documents/Projects/pickMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_455abd897d067ecd9b0b23af52aca7300b4ba7e9/classes.dex" />
+    </item>
+
+</items>
